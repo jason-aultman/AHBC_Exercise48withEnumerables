@@ -9,13 +9,14 @@ namespace AHBC_Exercise48withEnumerables
     {
         static void Main(string[] args)
         {
-            IEnumerable<int> enumerableList = new List<int>();
-            var nonEnumerableList = (ICollection<int>)enumerableList;
+           
           
             string inputAsString;
 
             do
             {
+                IEnumerable<int> enumerableList = new List<int>();
+                var nonEnumerableList = (ICollection<int>)enumerableList;
                 do
                 {
                     inputAsString = GetUserInput();
@@ -26,6 +27,7 @@ namespace AHBC_Exercise48withEnumerables
                         nonEnumerableList.Add(inputAsInt);
                     }
                 } while (inputAsString != "q");
+
                 foreach(int i in enumerableList)
                 {
                     
