@@ -1,0 +1,13 @@
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\bin\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.exe
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\bin\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.deps.json
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\bin\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.runtimeconfig.json
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\bin\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.runtimeconfig.dev.json
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\bin\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.dll
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\bin\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.pdb
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\obj\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\obj\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\obj\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.AssemblyInfo.cs
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\obj\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\obj\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.dll
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\obj\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.pdb
+C:\Users\jason\source\repos\AHBC_Exercise48withEnumerables\AHBC_Exercise48withEnumerables\obj\Debug\netcoreapp3.1\AHBC_Exercise48withEnumerables.genruntimeconfig.cache
